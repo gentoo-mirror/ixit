@@ -1,0 +1,11 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	git-r3	727a612b4c6247766904e3f74a326e2b	multilib	62927b3db3a589b0806255f3a002d5d3	python-single-r1	351da1aa73960a282591217fb57c1bb8	eutils	9fb270e417e0e83d64ca52586c4a79de	python-utils-r1	295a286ec27cab6af76b3b75ba07a3a
+_md5_=56382cbb01bd0bc1d32692936495cdf8
+SLOT=0
+DEFINED_PHASES=install prepare setup unpack
+EAPI=5
+DEPEND=app-arch/rpm dev-python/python-krbV >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Build system for the Fedora project
+LICENSE=GPL-2
+IUSE=+minimal python_targets_python2_7
+HOMEPAGE=https://fedorahosted.org/koji/
+RDEPEND=app-arch/rpm dev-python/python-krbV dev-python/pyopenssl dev-python/urlgrabber sys-apps/yum

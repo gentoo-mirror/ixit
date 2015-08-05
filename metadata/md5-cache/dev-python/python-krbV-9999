@@ -1,0 +1,10 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	git-r3	727a612b4c6247766904e3f74a326e2b	multilib	62927b3db3a589b0806255f3a002d5d3	libtool	52d0e17251d04645ffaa61bfdd858944	autotools	2264f05fbbbaaf83d34ec81e72b38ffd	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=ef17b3b881528fc3ba19fe19d109d066
+SLOT=0
+DEFINED_PHASES=configure install prepare unpack
+EAPI=5
+DEPEND=virtual/krb5 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Python extension module for Kerberos 5
+LICENSE=LGPL-2
+HOMEPAGE=http://fedorahosted.org/python-krbV/
+RDEPEND=virtual/krb5

@@ -1,0 +1,10 @@
+_eclasses_=
+_md5_=f1809e2252d4d47d4b9bb4a8fa4276b9
+SLOT=0
+DEFINED_PHASES=-
+EAPI=5
+DESCRIPTION=The 0pen Free Fiasco Firmware Flasher
+LICENSE=GPL-3
+SRC_URI=https://gitorious.org/0xffff/0xffff/archive/c6ee6a8e682078e1ab0aac9d57f2ab869dada0e1.tar.gz -> 0xffff-0.5_p20131123.tar.gz
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://nopcode.org/0xFFFF/

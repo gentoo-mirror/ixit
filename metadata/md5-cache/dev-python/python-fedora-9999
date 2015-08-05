@@ -1,0 +1,12 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	bzr	87fd9041fcbe23dbc8f0e65ce0df6c28	distutils-r1	715b22a21726d3fd76b17e007c5daf5f	multilib	62927b3db3a589b0806255f3a002d5d3	python-r1	d9c8348f26710ea523a385c2328cf027	multibuild	6d4858dc00f8bc51caf3f957f8430eb0	multiprocessing	d7f2985a2c76c365ee20269db5261414	eutils	9fb270e417e0e83d64ca52586c4a79de	python-utils-r1	295a286ec27cab6af76b3b75ba07a3a
+_md5_=502b5217bbeba01d22fa84d541ace85a
+SLOT=0
+DEFINED_PHASES=compile configure install prepare test unpack
+EAPI=5
+DEPEND=dev-python/python-bugzilla dev-python/bunch dev-python/cherrypy dev-python/decorator dev-python/feedparser dev-python/kitchen dev-python/mako dev-python/pycurl dev-python/repoze-who-friendlyform dev-python/simplejson dev-python/sqlalchemy dev-python/Babel dev-python/nose dev-python/paver dev-python/setuptools dev-python/sphinx python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)] >=dev-vcs/bzr-2.0.1
+DESCRIPTION=Python modules for talking to Fedora Infrastructure Services
+LICENSE=LGPL-2
+IUSE=python_targets_python2_7
+REQUIRED_USE=|| ( python_targets_python2_7 )
+HOMEPAGE=https://fedorahosted.org/python-fedora/
+RDEPEND=dev-python/python-bugzilla dev-python/bunch dev-python/cherrypy dev-python/decorator dev-python/feedparser dev-python/kitchen dev-python/mako dev-python/pycurl dev-python/repoze-who-friendlyform dev-python/simplejson dev-python/sqlalchemy python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)]

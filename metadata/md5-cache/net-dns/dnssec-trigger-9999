@@ -1,0 +1,11 @@
+_eclasses_=subversion	c12bdf4fcc82f86ad89b14c8f76c4026	toolchain-funcs	42408102d713fbad60ca21349865edb4	systemd	90342761f573a8280dd5aa6b0345f3b	multilib	62927b3db3a589b0806255f3a002d5d3	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=e5a4ec8ab56a265e902e2175aa267dc0
+SLOT=0
+DEFINED_PHASES=compile configure install preinst prepare unpack
+EAPI=5
+DEPEND=net-libs/ldns media-libs/harfbuzz openrc? ( dev-util/systemd2rc ) || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync virtual/pkgconfig
+DESCRIPTION=A tool to configure unbound with usable DNSSEC servers.
+LICENSE=BSD
+IUSE=+openrc +networkmanager
+HOMEPAGE=http://www.nlnetlabs.nl/projects/dnssec-trigger/
+RDEPEND=net-libs/ldns media-libs/harfbuzz net-dns/unbound
