@@ -1,0 +1,11 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	git-r3	1502b9838d043db47700b8120083e637	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	libtool	7f78cd7d403808a350c9ae23f5821fb4	autotools	8056957fdccf2b3cd6e282a4b4551d1a	eutils	351a78113be5b393c09a2c948701ad36
+_md5_=224fc382c5a8f2ef92696c2fe7163a2c
+SLOT=0
+DEFINED_PHASES=prepare unpack
+EAPI=5
+DEPEND=app-arch/rpm[python] net-misc/curl emacs? ( app-emacs/rpm-spec-mode ) dev-util/checkbashisms dev-lang/perl sys-apps/help2man >=dev-vcs/git-1.8.2.1 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=Collection of rpm packaging related utilities
+LICENSE=GPL-2
+IUSE=emacs
+HOMEPAGE=https://fedorahosted.org/rpmdevtools/
+RDEPEND=app-arch/rpm[python] net-misc/curl emacs? ( app-emacs/rpm-spec-mode ) dev-util/checkbashisms
