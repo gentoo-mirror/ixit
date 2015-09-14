@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2+
 RDEPEND=app-crypt/libsecret >=dev-libs/glib-2.32:2 >=dev-libs/dbus-glib-0.88 >=sys-apps/dbus-1.4.1 >=sys-auth/polkit-0.96-r1 >=x11-libs/gtk+-3.4:3[introspection?] >=x11-libs/libnotify-0.7.0 app-text/iso-codes >=net-misc/networkmanager-0.9.9.95[introspection?] net-misc/mobile-broadband-provider-info bluetooth? ( >=net-wireless/gnome-bluetooth-2.27.6:= ) gconf? ( >=gnome-base/gconf-2.20:2 gnome-base/libgnome-keyring ) introspection? ( >=dev-libs/gobject-introspection-0.9.6 ) modemmanager? ( >=net-misc/modemmanager-0.7.990 ) virtual/freedesktop-icon-theme virtual/notification-daemon virtual/libgudev:=
 SLOT=0
-_eclasses_=autotools	7feb275d850f45095537e76c5aa80494	eutils	351a78113be5b393c09a2c948701ad36	git-r3	1502b9838d043db47700b8120083e637	libtool	7f78cd7d403808a350c9ae23f5821fb4	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
+_eclasses_=autotools	7d16e72a943b4803ca9691b2ecf89216	eutils	351a78113be5b393c09a2c948701ad36	git-r3	1502b9838d043db47700b8120083e637	libtool	7f78cd7d403808a350c9ae23f5821fb4	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
 _md5_=b236bdd61b3c5ce5629d066ba2ca97a1
