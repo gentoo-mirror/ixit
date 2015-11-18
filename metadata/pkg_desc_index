@@ -1,4 +1,4 @@
-app-arch/rpm 4.11.2-r1 9999: Red Hat Package Management Utils
+app-arch/rpm 9999: Red Hat Package Management Utils
 app-emulation/lxc 9999: LinuX Containers userspace utilities
 app-mobilephone/esmska 1.9 9999: Send SMS over the Internet
 app-pda/libimobiledevice 1.2.0: Support library to communicate with Apple iPhone/iPod Touch devices
@@ -22,13 +22,16 @@ dev-python/python-krbV 9999: Python extension module for Kerberos 5
 dev-python/repoze-who 9999: An identification and authentication framework for WSGI
 dev-python/repoze-who-friendlyform 9999: Collection of repoze.who friendly form plugins
 dev-qt/qtsingleapplication 2.6.1_p20130904-r5: Qt library to start applications only once per user
+dev-util/bodhi 9999: Build system for the Fedora project
 dev-util/copr 9999: An alternative build system for the Fedora project
 dev-util/copr-cli 9999: An alternative build system for the Fedora project
 dev-util/fedora-packager 9999: Helper scripts for Fedora packagers
 dev-util/fedora-review 9999: Helper scripts for Fedora reviews
+dev-util/fedpkg 9999: Fedora utility for working with dist-git
 dev-util/koji 9999: Build system for the Fedora project
 dev-util/mock 9999: Build RPM packages in chroots
 dev-util/packagedb-cli 9999: Python modules for talking to Fedora Infrastructure Services
+dev-util/rpkg 9999: Utility for interacting with rpm+git packaging systems
 dev-util/rpmdevtools 9999: Collection of rpm packaging related utilities
 dev-util/rpmlint 9999: Tool for checking common errors in RPM packages
 dev-util/systemd2rc 9999: A tool to convert systemd unit files to OpenRC initscripts
