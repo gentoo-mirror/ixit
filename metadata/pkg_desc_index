@@ -12,29 +12,7 @@ dev-libs/libnl 9999: A collection of libraries providing APIs to netlink protoco
 dev-libs/libubox 9999: A general purpose library for the OpenWRT project.
 dev-libs/libuser 9999: Fedora utility for working with dist-git
 dev-libs/netresolve 9999: Network name resolution library
-dev-python/bunch 9999: Python dictionary with attribute-style access
-dev-python/copr 9999: An alternative build system for the Fedora project
-dev-python/kitchen 9999: Small, useful pieces of code to make python coding easier
-dev-python/offtrac 9999: Trac xmlrpc library
-dev-python/python-bugzilla 9999: Python library for interacting with Bugzilla
-dev-python/python-fedora 9999: Python modules for talking to Fedora Infrastructure Services
-dev-python/python-krbV 9999: Python extension module for Kerberos 5
-dev-python/repoze-who 9999: An identification and authentication framework for WSGI
-dev-python/repoze-who-friendlyform 9999: Collection of repoze.who friendly form plugins
 dev-qt/qtsingleapplication 2.6.1_p20130904-r5: Qt library to start applications only once per user
-dev-util/bodhi 9999: Build system for the Fedora project
-dev-util/copr 9999: An alternative build system for the Fedora project
-dev-util/copr-cli 9999: An alternative build system for the Fedora project
-dev-util/fedora-packager 9999: Helper scripts for Fedora packagers
-dev-util/fedora-review 9999: Helper scripts for Fedora reviews
-dev-util/fedpkg 9999: Fedora utility for working with dist-git
-dev-util/koji 9999: Build system for the Fedora project
-dev-util/mock 9999: Build RPM packages in chroots
-dev-util/packagedb-cli 9999: Python modules for talking to Fedora Infrastructure Services
-dev-util/rpkg 9999: Utility for interacting with rpm+git packaging systems
-dev-util/rpmdevtools 9999: Collection of rpm packaging related utilities
-dev-util/rpmlint 9999: Tool for checking common errors in RPM packages
-dev-util/systemd2rc 9999: A tool to convert systemd unit files to OpenRC initscripts
 games-emulation/dosbox 0.74_p20140712 9999-r1: DOS emulator
 gnome-extra/nm-applet 9999: GNOME applet for NetworkManager
 media-libs/elementary 9999: Basic widget set, based on EFL for mobile touch-screen devices
@@ -45,11 +23,13 @@ media-plugins/evas_generic_loaders 9999: Provides external applications as gener
 media-video/libav 11.4: Complete solution to record, convert and stream audio and video
 net-analyzer/iftop 1.0_pre4-r3: display bandwidth usage on an interface
 net-dns/c-ares 9999: C library that resolves names asynchronously
+net-dns/dnsmasq 9999: Dnsmasq provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot.
 net-dns/dnssec-trigger 9999: A tool to configure unbound with usable DNSSEC servers.
 net-dns/unbound 9999: A validating, recursive and caching DNS resolver
 net-libs/libndp 9999: Library for Neighbor Discovery Protocol
 net-misc/iputils 20150815 99999999: Network monitoring tools including ping and ping6
 net-misc/netifd 9999: A general purpose library for the OpenWRT project.
+net-misc/network-testing 9999: 
 net-misc/networkmanager 9999: Universal network configuration daemon for laptops, desktops, servers and virtualization hosts
 net-misc/odhcp6c 9999: DHCP server for the OpenWRT project.
 net-misc/odhcpd 9999: DHCP server for the OpenWRT project.
