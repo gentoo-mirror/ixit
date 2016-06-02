@@ -27,7 +27,6 @@ net-dns/dnsmasq 9999: Dnsmasq provides network infrastructure for small networks
 net-dns/dnssec-trigger 9999: A tool to configure unbound with usable DNSSEC servers.
 net-dns/unbound 9999: A validating, recursive and caching DNS resolver
 net-libs/libndp 9999: Library for Neighbor Discovery Protocol
-net-misc/iputils 20150815 99999999: Network monitoring tools including ping and ping6
 net-misc/netifd 9999: A general purpose library for the OpenWRT project.
 net-misc/network-testing 9999: 
 net-misc/networkmanager 9999: Universal network configuration daemon for laptops, desktops, servers and virtualization hosts

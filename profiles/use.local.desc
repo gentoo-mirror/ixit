@@ -55,7 +55,6 @@ media-video/libav:vpx - Enable vp8 encoding support using libvpx.
 media-video/libav:webp - Enable WebP encoding with media-libs/libwebp.
 media-video/libav:x265 - Enable HEVC encoding with media-libs/x265.
 net-analyzer/iftop:colors - Enable colors for RX and TX, when terminal support them.
-net-misc/iputils:SECURITY_HAZARD - Allow non-root users to flood (ping -f). This is generally a very bad idea.
 net-misc/networkmanager:connection-sharing - Use net-dns/dnsmasq and net-firewall/iptables for connection sharing
 net-misc/networkmanager:consolekit - Use sys-auth/consolekit for session tracking
 net-misc/networkmanager:dhclient - Use dhclient from net-misc/dhcp for getting ip
