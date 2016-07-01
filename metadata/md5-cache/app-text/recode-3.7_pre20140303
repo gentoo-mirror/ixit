@@ -9,5 +9,5 @@ LICENSE=GPL-2
 SLOT=0
 SRC_URI=https://github.com/pinard/Recode/archive/2d7092a9999194fc0e9449717a8048c8d8e26c18.zip -> recode-3.7_pre20140303.zip
 _eclass_exported_funcs=src_configure:- src_install:-
-_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	d270fa247153df66074f795fa42dba3e	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	e886935aae2b45a545665444ab0667cf
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	df9add8bc729ce892cd54769ba937d77	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	e886935aae2b45a545665444ab0667cf
 _md5_=dce72c11370fe827f850f60845e60b88
