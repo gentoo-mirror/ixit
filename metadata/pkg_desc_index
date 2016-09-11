@@ -13,6 +13,7 @@ dev-libs/libubox 9999: A general purpose library for the OpenWRT project.
 dev-libs/libuser 9999: Fedora utility for working with dist-git
 dev-libs/netresolve 9999: Network name resolution library
 dev-qt/qtsingleapplication 2.6.1_p20130904-r5: Qt library to start applications only once per user
+dev-util/systemd2rc 9999: A tool to convert systemd unit files to OpenRC initscripts
 games-emulation/dosbox 0.74_p20140712 9999-r1: DOS emulator
 gnome-extra/nm-applet 9999: GNOME applet for NetworkManager
 media-libs/elementary 9999: Basic widget set, based on EFL for mobile touch-screen devices
