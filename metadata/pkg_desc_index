@@ -7,7 +7,6 @@ app-pda/libusbmuxd 1.0.10: USB multiplex daemon for use with Apple iPhone/iPod T
 app-pda/usbmuxd 1.1.0: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-text/recode 3.7_pre20140303: Convert files between various character sets
 dev-java/jdbc-mysql 5.1.26-r1: MySQL JDBC driver
-dev-libs/efl 9999: Enlightenment Foundation Core Libraries
 dev-libs/libnl 9999: A collection of libraries providing APIs to netlink protocol based Linux kernel interfaces
 dev-libs/libubox 9999: A general purpose library for the OpenWRT project.
 dev-libs/libuser 9999: Fedora utility for working with dist-git
@@ -16,11 +15,8 @@ dev-qt/qtsingleapplication 2.6.1_p20130904-r5: Qt library to start applications 
 dev-util/systemd2rc 9999: A tool to convert systemd unit files to OpenRC initscripts
 games-emulation/dosbox 0.74_p20140712 9999-r1: DOS emulator
 gnome-extra/nm-applet 9999: GNOME applet for NetworkManager
-media-libs/elementary 9999: Basic widget set, based on EFL for mobile touch-screen devices
 media-libs/mesa 9999: OpenGL-like graphic library for Linux
 media-libs/openal 9999: A software implementation of the OpenAL 3D audio API
-media-plugins/emotion_generic_players 9999: Provides external applications as generic loaders for Evas
-media-plugins/evas_generic_loaders 9999: Provides external applications as generic loaders for Evas
 media-video/libav 11.4: Complete solution to record, convert and stream audio and video
 net-analyzer/iftop 1.0_pre4-r3: display bandwidth usage on an interface
 net-dns/c-ares 9999: C library that resolves names asynchronously
