@@ -1,3 +1,4 @@
+app-admin/sshguard 1.7.1-r1 1.99.0-r1: protects hosts from brute force attacks against ssh
 app-arch/rpm 9999: Red Hat Package Management Utils
 app-emulation/lxc 9999: LinuX Containers userspace utilities
 app-mobilephone/esmska 1.9 9999: Send SMS over the Internet
