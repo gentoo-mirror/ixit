@@ -9,5 +9,5 @@ LICENSE=GPL-2+
 RDEPEND=app-crypt/libsecret >=dev-libs/glib-2.32:2 >=dev-libs/dbus-glib-0.88 >=sys-apps/dbus-1.4.1 >=sys-auth/polkit-0.96-r1 >=x11-libs/gtk+-3.4:3[introspection?] >=x11-libs/libnotify-0.7.0 app-text/iso-codes >=net-misc/networkmanager-0.9.9.95[introspection?] net-misc/mobile-broadband-provider-info bluetooth? ( >=net-wireless/gnome-bluetooth-2.27.6:= ) gconf? ( >=gnome-base/gconf-2.20:2 gnome-base/libgnome-keyring ) introspection? ( >=dev-libs/gobject-introspection-0.9.6 ) modemmanager? ( >=net-misc/modemmanager-0.7.990 ) virtual/freedesktop-icon-theme virtual/notification-daemon virtual/libgudev:= appindicator? ( dev-libs/libappindicator )
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_configure:-
-_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	ea170b525f6a38a006be05c9d9429f13	git-r3	6efc2d7de07a77bf72c7207b48d0e123	libtool	84763589a795fb127b537cac01e5359f	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	708f85bc1bf00876604e223fb56e062a	git-r3	6efc2d7de07a77bf72c7207b48d0e123	libtool	84763589a795fb127b537cac01e5359f	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=2f26e5b509e1f173b09b3a5cac0173af
