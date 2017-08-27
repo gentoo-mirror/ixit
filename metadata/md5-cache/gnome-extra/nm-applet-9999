@@ -4,10 +4,9 @@ DESCRIPTION=GNOME applet for NetworkManager
 EAPI=5
 HOMEPAGE=https://wiki.gnome.org/Projects/NetworkManager
 IUSE=bluetooth gconf +appindicator +introspection modemmanager
-KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2+
 RDEPEND=app-crypt/libsecret >=dev-libs/glib-2.32:2 >=dev-libs/dbus-glib-0.88 >=sys-apps/dbus-1.4.1 >=sys-auth/polkit-0.96-r1 >=x11-libs/gtk+-3.4:3[introspection?] >=x11-libs/libnotify-0.7.0 app-text/iso-codes >=net-misc/networkmanager-0.9.9.95[introspection?] net-misc/mobile-broadband-provider-info bluetooth? ( >=net-wireless/gnome-bluetooth-2.27.6:= ) gconf? ( >=gnome-base/gconf-2.20:2 gnome-base/libgnome-keyring ) introspection? ( >=dev-libs/gobject-introspection-0.9.6 ) modemmanager? ( >=net-misc/modemmanager-0.7.990 ) virtual/freedesktop-icon-theme virtual/notification-daemon virtual/libgudev:= appindicator? ( dev-libs/libappindicator )
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_configure:-
 _eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	git-r3	78651c07ca1c1373bf81545d39eb9769	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
-_md5_=2f26e5b509e1f173b09b3a5cac0173af
+_md5_=47e7aca10ba595d752763d7c170f99f5
