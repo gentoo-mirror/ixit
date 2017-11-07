@@ -7,20 +7,7 @@ dev-java/jdbc-mysql:c3p0 - Enable c3p0 support
 dev-java/jdbc-mysql:log4j - Enable log4 support
 games-emulation/dosbox:sdl2 - Enable new SDL2 rather than SDL 1.2
 net-analyzer/iftop:colors - Enable colors for RX and TX, when terminal support them.
-net-misc/networkmanager:connection-sharing - Use net-dns/dnsmasq and net-firewall/iptables for connection sharing
-net-misc/networkmanager:consolekit - Use sys-auth/consolekit for session tracking
-net-misc/networkmanager:dhclient - Use dhclient from net-misc/dhcp for getting ip
-net-misc/networkmanager:dhcpcd - Use net-misc/dhcpcd for getting ip
-net-misc/networkmanager:modemmanager - Enable support for mobile broadband devices using net-misc/modemmanager
-net-misc/networkmanager:nss - Use dev-libs/nss for cryptography
-net-misc/networkmanager:openrc - Install the OpenRC init scripts
-net-misc/networkmanager:ppp - Enable support for mobile broadband and PPPoE connections using net-dialup/ppp
-net-misc/networkmanager:resolvconf - Use net-dns/openresolv for managing DNS information
-net-misc/networkmanager:vala - Enable bindings for dev-lang/vala
-net-misc/networkmanager:wext - Enable support for the deprecated Wext (Wireless Extensions) API; needed for some older drivers (e.g. ipw2200, ndiswrapper)
 sys-fs/udisks:cryptsetup - Enable sys-fs/cryptsetup support
 sys-fs/udisks:gptfdisk - Pull in sys-apps/gptfdisk for sgdisk command as used by partitioning functionality
 sys-fs/udisks:introspection - Use dev-libs/gobject-introspection for introspection
 sys-fs/udisks:systemd - Support sys-apps/systemd's logind
-x11-themes/qtcurve:kde - Enable KDE4 support. This adds a QtCurve configuration module to KDE's SystemSettings
-x11-themes/qtcurve:windeco - Enable window decoration for KWin
