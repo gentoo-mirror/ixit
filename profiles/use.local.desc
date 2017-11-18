@@ -4,5 +4,5 @@
 
 dev-java/jdbc-mysql:c3p0 - Enable c3p0 support
 dev-java/jdbc-mysql:log4j - Enable log4 support
-games-emulation/dosbox:sdl2 - Enable new SDL2 rather than SDL 1.2
+games-emulation/dosbox:glide - Enable unofficial Glide emulation via media-libs/openglide
 net-analyzer/iftop:colors - Enable colors for RX and TX, when terminal support them.

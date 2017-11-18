@@ -1,7 +1,7 @@
 app-pda/libusbmuxd 1.0.10: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-pda/usbmuxd 1.1.0: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 dev-java/jdbc-mysql 5.1.26-r1: MySQL JDBC driver
-games-emulation/dosbox 0.74_p20140712 9999-r1: DOS emulator
+games-emulation/dosbox 0.74_p20160629-r2: DOS emulator
 gnome-extra/mconnect 9999: 
 net-analyzer/iftop 1.0_pre4-r3: display bandwidth usage on an interface
 sys-apps/0xffff 0.5_p20131123: The 0pen Free Fiasco Firmware Flasher
