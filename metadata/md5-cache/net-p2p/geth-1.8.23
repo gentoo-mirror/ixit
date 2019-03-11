@@ -1,0 +1,10 @@
+DEFINED_PHASES=compile install
+DEPEND=dev-lang/go
+DESCRIPTION=Command line interface for running a full Ethereum node
+EAPI=7
+HOMEPAGE=https://www.ethereum.org/
+KEYWORDS=~amd64 ~x86
+LICENSE=LGPL-3
+SLOT=0
+SRC_URI=https://github.com/ethereum/go-ethereum/archive/v1.8.23.tar.gz
+_md5_=1f289df769754d708d1812c44bdf5b31
