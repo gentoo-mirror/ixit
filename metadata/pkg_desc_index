@@ -1,4 +1,5 @@
 app-admin/gnome-passwordsafe 3.32.0: A password manager for GNOME
+app-misc/mobile-datovka 1.9.0: GUI to access the Czech data box e-government system
 app-pda/libusbmuxd 1.0.10: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-pda/usbmuxd 1.1.0: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 dev-java/jdbc-mysql 5.1.26-r1: MySQL JDBC driver
