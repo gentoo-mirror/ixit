@@ -1,4 +1,4 @@
-app-admin/gnome-passwordsafe 3.32.0: A password manager for GNOME
+app-admin/gnome-passwordsafe 3.99.1: A password manager for GNOME
 app-misc/mobile-datovka 1.9.0: GUI to access the Czech data box e-government system
 dev-python/pykeepass 3.1.1: Python library to interact with keepass databases (supports KDBX3 and KDBX4)
 net-analyzer/iftop 1.0_pre4-r5: display bandwidth usage on an interface
