@@ -2,4 +2,8 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+media-gfx/gimp:heif - Enable support for ISO/IEC 23008-12:2017 HEIF files
+media-gfx/gimp:vector-icons - Enable support for vector icons (experimental)
+media-libs/gegl:lensfun - Enable support for media-libs/lensfun.
+media-libs/gegl:umfpack - Enable sparse solving via sci-libs/umfpack.
 net-analyzer/iftop:colors - Enable colors for RX and TX, when terminal support them.
