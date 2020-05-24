@@ -2,5 +2,4 @@ gui-apps/tootle 9999: GTK3 client for Mastodon
 media-gfx/gimp 2.99_pre20200417: GNU Image Manipulation Program
 media-libs/gegl 0.4.24_pre20200417: A graph based image processing framework
 net-analyzer/iftop 1.0_pre4-r5: display bandwidth usage on an interface
-net-im/srain 1.0.2: Modern, beautiful IRC client written in GTK+ 3
 net-p2p/geth 1.9.6: Command line interface for running a full Ethereum node
