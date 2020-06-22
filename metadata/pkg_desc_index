@@ -1,5 +1,5 @@
 gui-apps/tootle 9999: Mastodon client written in GTK3
-gui-libs/libhandy 0.81.0: Library with GTK widgets for mobile phones
+gui-libs/libhandy 0.82.0: Library with GTK widgets for mobile phones
 media-gfx/gimp 2.99_pre20200417: GNU Image Manipulation Program
 media-libs/gegl 0.4.24_pre20200417: A graph based image processing framework
 net-analyzer/iftop 1.0_pre4-r5: display bandwidth usage on an interface
